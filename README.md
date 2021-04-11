@@ -19,13 +19,13 @@ I'm a software engineer in DRC, Goma 🌆
 </br>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/ardin-biganiro-0451aa13a/">
+    <a href="https://www.linkedin.com/in/ardinbig">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ardinbiganiro-blue?style=flat-square&logo=linkedin">
     </a>
     <a href="https://twitter.com/ArdinBiganiro">
         <img alt="Twitter" src="https://img.shields.io/badge/Twitter-ardinbiganiro-blue?style=flat-square&logo=twitter">
     </a>
-    <a href="https://www.instagram.com/ardinbig/">
+    <a href="https://www.instagram.com/ardinbig">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-ardinbig-blue?style=flat-square&logo=Instagram"> 
     </a>
     <a href="mailto:ardinbig@gmail.com">

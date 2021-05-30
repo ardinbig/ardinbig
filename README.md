@@ -8,11 +8,11 @@ I'm a software engineer in DRC, Goma 🌆
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm also a drawing artist
 
-## Languages
+<!-- ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardinbig)
 
-<!-- ### Github Stats
+### Github Stats
 [![Ardin's Github Stats](https://github-readme-stats.vercel.app/api?username=ardinbig&count_private=true&theme=default&show_icons=true)](https://github.com/ardinbig)  -->
 
 

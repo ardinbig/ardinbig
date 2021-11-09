@@ -23,10 +23,7 @@ I'm a software engineer in DRC, Goma 🌆
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ardinbig-blue?style=flat-square&logo=linkedin">
     </a>
     <a href="https://twitter.com/ArdinBiganiro">
-        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-ardinbiganiro-blue?style=flat-square&logo=twitter">
-    </a>
-    <a href="https://www.instagram.com/ardinbig">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-ardinbig-blue?style=flat-square&logo=Instagram"> 
+        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-ArdinBiganiro-blue?style=flat-square&logo=twitter">
     </a>
     <a href="mailto:ardinbig@gmail.com">
         <img alt="Email" src="https://img.shields.io/badge/Email-ardinbig@gmail.com-orange?style=flat-square&logo=Gmail">
@@ -34,3 +31,5 @@ I'm a software engineer in DRC, Goma 🌆
     <a href="mailto:ardinbig@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-ardinbig@outlook.com-red?style=flat-square&logo=Microsoft%20Outlook">
     </a>   
 </div>
+
+<!-- [Profile views](https://gpvc.arturio.dev/ardinbig)  

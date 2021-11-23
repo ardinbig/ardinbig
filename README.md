@@ -6,7 +6,6 @@ I'm a software engineer in DRC, Goma 🌆
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm also a drawing artist
 
 <!-- ## Languages
 

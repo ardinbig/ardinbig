@@ -1,6 +1,6 @@
 # Hi there, Ardin Biganiro here... 👋
 
-I'm a software engineer in DRC, Goma 🌆
+I'm a software engineer
 
 - 🔭 I’m currently working on personal projects
 - 🧑‍💻 I’m looking to collaborate on open source projects
